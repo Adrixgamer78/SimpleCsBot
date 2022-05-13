@@ -1,5 +1,5 @@
-﻿# SimpleCsBot
-Simple base for Discord bots using Discord.NET
+# SimpleCsBot
+Simple base for Discord bots using Discord.NET with a few examples
 
 - Works with interactions (slash commands, modals, buttons, etc..)
 - Works with text commands (prefix)
